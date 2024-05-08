@@ -1,0 +1,1 @@
+print("TODAY IS MY LP-2 LAB PRACTICAL")
